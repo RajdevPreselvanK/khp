@@ -1,0 +1,29 @@
+
+body{
+    align-items: center;
+    text-align: center;
+    background-image:url('https://images.unsplash.com/photo-1514416205405-075ab2f15964?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+form,table{
+    text-align: left;       
+    font-size: 25;                     
+    font-weight:bold;
+height: bold;              
+    color:lightgreen;  
+        
+}
+
+.child {
+margin: 0 auto;
+}
+
+H1
+{
+ color:White;
+}
+
